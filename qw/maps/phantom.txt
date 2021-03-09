@@ -1,0 +1,82 @@
+
+
+  #
+  # "Phantom Base" [phantom.bsp]
+  #
+  # a 4v4 Teamdeathmatch (tdm) map
+  #
+  # by Q****R - March.7.2021
+  #
+
+
+  ----------------
+  credits & thanks
+  ----------------
+  * location (.loc) file by ::: Flintheart
+
+  * Lurq
+  * Link for feedback
+  * Doomie for hosting test version on server
+  * Hurburd !
+
+
+  ------
+  files:
+  ------
+  > phantom.txt           : ... this file
+
+  > phantom.bsp           : map
+  > phantom.lit           : (subtle) coloured lighting
+  > phantom.loc           : locations [ (version: march.8.2021 by Flintheart) ]
+  > /textures/levelshots/ : phantom.jpg
+  > /textures/phantom/    : 24 bit textures [TGA's]
+
+
+  # NOTE
+  # The .bsp file has lower quality (8bit) textures 'baked-in' the .bsp file itself.
+  # If you don't have the higher quality (24 bit) texture files installed, you will see the lower quality textures.
+
+
+  ----------
+  src files:
+  ----------
+  > phantom.map     : map source
+  > romerobase.wad  : 8bit texture.wad [to be used with the .map source file(s)] [It's the Romero Base wad]
+
+  ---------------------------------
+  map compile tools used (windows):
+  ---------------------------------
+  > BSP   : tyrericw qbsp.exe
+  > VIS   : tyrericw vis.exe
+  > LIGHT : hmap2.exe (extra8x8)
+
+  ---------------------------------
+  editor used
+  ---------------------------------
+  > netRadiant
+
+
+
+  =================================
+
+  Weapons, ammo, items, etc ...
+
+  =================================
+
+  > Spawnpoints : 8
+
+  > Powerups    : 1 'Quad' / 1 'Pent' / 1 'Ring'
+
+  > Armors      : 1 'RA' / 1 'YA' / 1 'GA'
+
+  > Weapons     : 1 'LG' / 2 'RL' / 1 'GL' / 1 'SNG' / 3 'SSG'! ---(1 SSG near each Armor)
+
+  > Health      : 1 'Mega' / 4 '25h' / 7 '10h'
+
+  > Ammo        : Rockets : 6x 5-pack, 1x 10-pack
+                : Cells   : 2x 6-pack, 1x 12-pack
+                : Shells  : 4x 20-pack
+                : Nails   : 2x 25 pack 
+
+
+
