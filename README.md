@@ -3,7 +3,8 @@
 QUAKEWORLD
 
 Phantom Base (phantom.bsp)
-UPDATEm bugs fixed version : phantoma.bsp (phantoma__bsp_loc_textures.zip)
+
+UPDATE: bugs fixed version : phantoma.bsp (phantoma__bsp_loc_textures.zip)
 
 a 4v4 Teamdeathmatch (tdm) map
 
