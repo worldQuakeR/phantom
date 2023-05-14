@@ -1,4 +1,4 @@
-# phantom / phantoma
+# Phantom / Phantoma
 
 QUAKEWORLD
 
